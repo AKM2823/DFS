@@ -4,7 +4,7 @@ import random
 # Getting user input
 x=int(input('Ch BW for 5GHz frequency [1] 20MHz [2] 40MHz [3] 80MHz:'))
 
-# DFS channels
+# DFS channels in 5GHz
 DFS_ch=[52,56,60,64,100,104,108,112,116,120,124,128,132,136,140,144,54,62,102,110,118,126,134,142,58,106,122,138]
 
 # Select random choice
